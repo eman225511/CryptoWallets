@@ -1,3 +1,3 @@
 # **My Crypto Wallets**
-> **Bitcoin**
-> Bitcoin Lightning: emangod@speed.app
+**Bitcoin**
+Bitcoin Lightning: emangod@speed.app
